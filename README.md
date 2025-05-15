@@ -32,7 +32,7 @@ Get this awesome app up and running on your machine in a few simple steps!
 
 ## 📸 Sneak Peek
 
-![Screenshot of Nearby Shops Finder App Output](output.jpg)
+![Screenshot of Nearby Shops Finder App Output](output_new.jpg)
 
 ## 🤝 Contributing
 
